@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science student at Auburn university looking for entry level internship as a software engineer. I am set to graduate in Fall of 2026, and can demonstrate my engineering proficiency in both my projects and coursework
+Computer Science student at Auburn looking for entry level internship/position as a software engineer. Expected graduation: Fall 2026
 
 
 ## 🌐 Socials:
