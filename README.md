@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science student at Auburn looking for entry level internship/position as a software engineer. Expected graduation: Fall 2026
+Computer Science student at Auburn looking for entry level internship/position as a software engineer. I am currently on track to graduate in Fall of 2026, but I am highly considering double majoring in mathematics for my interest in data science and machine learning. This will put me at Fall of 2027.
 
 
 ## 🌐 Socials:
