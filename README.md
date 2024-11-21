@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science student at Auburn looking for entry level internship/position as a software engineer. I am currently on track to graduate in Fall of 2026, but I am highly considering double majoring in mathematics for my interest in data science and machine learning. This will put me at Fall of 2027. Right now I am working on a social media platform using sequel, react, and websocket. After I finish this project, I will learn pytorch and hopefully acquire a research position for ML or DL here at Auburn.
+I am a Computer Science student at Auburn looking for entry level internship/position as a software engineer. I am currently on track to graduate in Fall of 2026, but I am highly considering double majoring in mathematics for my interest in data science and machine learning. This will put me at Fall of 2027. Right now I am working on a social media platform using sequel, react, and websocket. After I finish this project, I will learn pytorch and hopefully acquire a research position for ML or DL here at Auburn. I also need to update MyWebsite because it is not my current best work.
 
 
 ## 🌐 Socials:
