@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am an auburn undergraduate studying computer science and (almost) mathematics. I am most profcient in JS and Python, and I have experience with SQL, React, Node.js, Websocket, and github pages. I have also touched C and Ruby in a couple of my classes. Right now I am working on finishing up the Email Bot Project, learning about cloud computing. After I finish this project, I will learn pytorch and hopefully acquire a research position for ML or DL here at Auburn. 
-
+I AM A HUMAN BEING TRYING TO LEARN ABOUT COMPUTERS TO MAKE SOMETHING WITH MY LIFE!!! I HOPE MY PROJECTS DISPLAY MY SKILLS!
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mack-thompson-18528328) 
 
