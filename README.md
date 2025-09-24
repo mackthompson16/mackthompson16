@@ -1,5 +1,5 @@
 # 💫 About Me:
-If you are a recuriter who found your way on to my profile, I encourage you to visit my website first, [mack-thompson.com](mack-thompson.com), and you can find the hyperlinks to certain projects on there.
+If you are a recuriter who found your way on to my profile, I encourage you to visit my website first, [mack-thompson.com](https://mack-thompson.com), and you can find the hyperlinks to certain projects on there.
 
 I AM A HUMAN BEING TRYING TO LEARN ABOUT COMPUTERS TO MAKE SOMETHING WITH MY LIFE!!! I HOPE MY PROJECTS DISPLAY MY SKILLS! 
 ## 🌐 Socials:
