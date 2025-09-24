@@ -1,5 +1,7 @@
 # 💫 About Me:
-I AM A HUMAN BEING TRYING TO LEARN ABOUT COMPUTERS TO MAKE SOMETHING WITH MY LIFE!!! I HOPE MY PROJECTS DISPLAY MY SKILLS!
+If you are a recuriter who found your way on to my profile, I encourage you to visit my website first, [mack-thompson.com](mack-thompson.com), and you can find the hyperlinks to certain projects on there.
+
+I AM A HUMAN BEING TRYING TO LEARN ABOUT COMPUTERS TO MAKE SOMETHING WITH MY LIFE!!! I HOPE MY PROJECTS DISPLAY MY SKILLS! 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mack-thompson-18528328) 
 
