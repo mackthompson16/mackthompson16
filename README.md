@@ -16,3 +16,4 @@ const aboutMe = {
     }
 };
 ```
+# [More about me](https://www.mack-thompson.com)
