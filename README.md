@@ -6,8 +6,8 @@ const aboutMe = {
         last: "Thompson",
     },
     desc: `Here are a couple of my personal projects.
-    I hope to publish my latest project-a recurrent neural
-    network (RNN) transformer to predict stock prices-soon.`,
+    I hope to publish my latest project-a neural
+    network to predict stock prices-soon.`,
     location: {
         curr: "Auburn, Alabama",
         prev: ["Atlanta, Georgia"],
