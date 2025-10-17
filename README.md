@@ -5,8 +5,8 @@ const aboutMe = {
         first: "Mack",
         last: "Thompson",
     },
-    desc: `Here are a couple of my personal projects.
-    Right now I'm working on my world-order-forecast model.`,
+    desc: "Here are a couple of my personal projects.
+    Right now I'm working on my world-order-forecast model.",
     location: {
         curr: "Auburn, Alabama",
         prev: ["Atlanta, Georgia"],
