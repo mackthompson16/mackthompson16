@@ -12,7 +12,7 @@ const aboutMe = {
         prev: ["Atlanta, Georgia"],
     },
     experience: {
-        curr: 'Research Assistant',
+        curr: 'Researcher & SWE Intern',
         prev: ['SWE Intern', 'Freelance Dev', 'Founder'],
     },
     socials: {
