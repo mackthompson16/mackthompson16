@@ -1,25 +1,29 @@
 # Hello there (Kenobi?). 
 ```bash
-const aboutMe = {
-    name: {
-        first: "Mack",
-        last: "Thompson",
-    },
-    desc: "Here are a couple of my personal projects.
-    I'm working on a market-forecaster,
-    the succesor to my world-order-forecast.",
-    location: {
-        curr: "Auburn, Alabama",
-        prev: ["Atlanta, Georgia"],
-    },
+const mack = {
+    name: "Mack Thompson",
+    role: "CS @ Auburn",
+    focus: ["AI Systems", "Cloud Infrastructure", "HAPPINESS"],
     experience: {
-        curr: 'Researcher & SWE Intern',
-        prev: ['SWE Intern', 'Freelance Dev', 'Founder'],
+        incoming: [
+            "Cloud Engineering Intern @ HPE (Summer 2026)",
+            "AI Engineering Intern @ Southern Company (Fall 2026)"
+        ],
+        previous: [
+            "SWE Intern @ OCV",
+            "SWE Intern @ Kahua",
+            "ML Research @ Auburn",
+        ]
     },
-    socials: {
-        website: 'https://mack-thompson.com/',
-        linkedin: 'https://www.linkedin.com/in/mackthompson1/',
-        email: 'mackthompson16@gmail.com',
+      projects: {
+        ai_lifeguard: "Real-time drowning detection system (OpenCV + PyTorch + custom hardware)",
+        data_forecaster: "Geopolitical/data trend forecasting pipeline (ML + time-series modeling)",
+        social_platform: "Realtime full-stack app (WebSockets + Postgres + React)",
+        email_agent: "LLM-powered automated email response system"
+    },
+    links: {
+        linkedin: "https://linkedin.com/in/mackthompson1",
+        email: "mackthompson16@gmail.com"
     }
 };
 ```
