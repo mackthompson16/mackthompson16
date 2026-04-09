@@ -2,7 +2,7 @@
 ```bash
 const mack = {
     name: "Mack Thompson",
-    role: "CS @ Auburn",
+    education: "CS @ Auburn",
     focus: ["AI Systems", "Cloud Infrastructure", "HAPPINESS"],
     experience: {
         incoming: [
